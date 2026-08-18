@@ -1,5 +1,3 @@
-Here is a sleek, professional `README.md` tailored specifically for your ThinkPad-inspired audio visualizer. It captures the minimalist, high-contrast aesthetic of the code and includes clear setup instructions.
-
 ---
 
 # 🔴 ThinkPad Audio Visualizer
